@@ -1,0 +1,36 @@
+{
+    "xm4": "Agency Suppressor, Task Force Barrel, Microflex Sight, Field Agent Foregrip, 60 Round Fast Mag",
+    "krig6": "Agency Suppressor, Takedown Barrel, Microflex Sight, Field Agent Foregrip, 60 Round Fast Mag",
+    "qbz": "Agency Suppressor, Ranger Barrel, Airborne Elastic Wrap, Speedgrip, 60 Round Fast Mag",
+    "ffar": "Socom Eliminator, Ranger Barrel, Airborne Elastic Wrap, Raider Stock, 50 Round Mag",
+    "groza": "Gru Suppressor, CMV Barrel, Speedgrip, Raider Stock, 60 Round Mag",
+    "ak47": "KGB Eliminator, Takedown Barrel, Spetsnaz Grip, Gru Elastic Wrap, 60 Round Fast Mag",
+
+    "milano": "Agency Suppressor, Task Force Barrel, Field Agent Foregrip, Raider Stock, 55 Round Fast Mag",
+    "ak74u": "Gru Suppressor, Task Force Barrel, Spetsnaz Grip, 50 Round Fast Mag, Gru Elastic Wrap",
+    "bullfrog": "Gru Suppressor, Task Force Barrel, Spetsnaz Grip, KGB Stock, 85 Round Fast Mag",
+    "mac10": "Socom Eliminator, Rifled Barrel, Speedgrip, Raider Stock, 53 Round Fast Mag",
+    "ksp": "Agency Suppressor, Task Force Barrel, Field Agent Foregrip, Airborne Elastic Wrap, 48 Round Fast Mag",
+    "mp5": "Agency Suppressor, Task Force Barrel, Field Agent Foregrip, Raider Stock, 50 Round Fast Mag",
+
+    "stoner63": "Agency Suppressor, Match Grade Barrel, Raider Stock, Field Agent Foregrip, 2x Scope",
+    "rpd": "Gru Suppressor, Task Force Barrel, Skeletal Stock, Field Agent Foregrip, 2x Scope",
+    "m60": "Agency Suppressor, Task Force Barrel, Raider Stock, Fast Mag",
+
+    "tundra": "Stabilizer, Tiger Team Barrel, Airborne Elastic Wrap, Raider Pad, Fast Mag",
+    "pelington": "Stabilizer, Tiger Team Barrel, Airborne Elastic Wrap, Raider Pad, Fast Mag",
+    "m82": "Stabilizer, Tiger Team Barrel, Airborne Elastic Wrap, Raider Pad, 7 Fast Mag",
+
+    "diamatti": "Socom Eliminator, Task Force Barrel, 30 Round Fast Mag, 5mw Laser, Dual Wield",
+    "magnum": "Socom Eliminator, Task Force Barrel, 12 Round Fast Mag, 5mw Laser, Dual Wield",
+    "cw1911": "Socom Eliminator, Task Force Barrel, 14 Round Fast Mag, 5mw Laser",
+
+    "streetsweeper": "Agency Choke, Extended Barrel, 5mw Laser, 18 Round Mag, Marathon Stock",
+    "gallo": "Agency Choke, Task Force Barrel, Marathon Stock, 12 Round Mag, 5mw Laser",
+    "hauer": "Agency Choke, Task Force Barrel, Marathon Stock, 9 Round Mag, 5mw Laser",
+
+    "cwaug": "Socom Eliminator, Titanium Barrel, Field Agent Foregrip, 3x Scope, 54 Round Fast Mag",
+    "m16": "Socom Eliminator, Titanium Barrel, Field Agent Foregrip, 3x Scope, 60 Round Fast Mag",
+    "dmr14": "Socom Eliminator, Strike Team Barrel, Jungle Mag, Field Agent Foregrip, 2x Scope",
+    "type63": "Socom Eliminator, Strike Team Barrel, Taped Mag, Spetsnaz Grip, 2x Scope"
+}
